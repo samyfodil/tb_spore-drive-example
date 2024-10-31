@@ -1,5 +1,5 @@
 id: QmcppKxo5TxcYVrwR5PzaLvchnExzLi8QQPpToEmeGq5uS
-description: Returns pong to a ping over http --
+description: Returns pong to a ping over http ---
 tags: []
 source: .
 trigger:
